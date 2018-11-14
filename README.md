@@ -1,4 +1,4 @@
-### 🥚 My 2018 macOS environment
+### 🐣 macOS Environment
 
 _Ditching the shell script in favor of a simple recipe due to broken, deprecated taps etc._
 
