@@ -31,7 +31,6 @@ _Restart is required for shell default to take effect_
 ```
 brew cask install google-chrome
 brew cask install firefox
-brew cask install brave-browser
 brew cask install dropbox
 brew cask install visual-studio-code
 brew cask install tower
@@ -46,15 +45,16 @@ brew cask install istat-menus
 brew cask install pocket-casts
 brew cask install private-internet-access
 brew cask install focus
+brew cask install hazeover
 brew cask install wake
+brew cask install airfoil
+brew cask install kaleidoscope
+brew cask install mosaic
 ```
 
 
 *Apps requiring manual installation*
 ```
-airfoil
-kaleidoscope
-mosaic
 f-Bar
 adobe creative cloud
 ```
@@ -72,11 +72,10 @@ brew install mas
 …or via the Mac App Store (I think it’s quicker via App Store > Account > Purchased)
 
 ```
-xcode
 1password
+xcode
 pastebot
-spark
-bear
+ia-writer
 slack
 things 3
 tweetbot
@@ -101,5 +100,4 @@ curl -sS https://getcomposer.org/installer | php
 sudo mv composer.phar /usr/local/bin/composer
 
 composer global require laravel/installer
-composer global require laravel/valet
 ```
